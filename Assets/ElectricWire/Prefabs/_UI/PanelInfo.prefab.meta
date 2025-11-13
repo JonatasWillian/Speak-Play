@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8439852c8e2589a40aa7cd5d36c366f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Prefabs/_UI/PanelInfo.prefab
+  uploadId: 637294

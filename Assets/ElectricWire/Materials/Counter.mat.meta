@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e8c7dee58381ca47bc112bd9dc25f27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Materials/Counter.mat
+  uploadId: 637294

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20a0e0bf608f08041a9d09d71294137a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/WallWithDoor.prefab
+  uploadId: 637294

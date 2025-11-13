@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af4a7b9b90b099746930ca471c54b610
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Materials/WindTurbine.mat
+  uploadId: 637294

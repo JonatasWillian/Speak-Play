@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8527c4f5f35a50f4a9783463edcc46a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Scripts/SpawnComponent.cs
+  uploadId: 637294

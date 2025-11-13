@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6552d7e5eefac73409da3709eb3835d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/XNOR.prefab
+  uploadId: 637294

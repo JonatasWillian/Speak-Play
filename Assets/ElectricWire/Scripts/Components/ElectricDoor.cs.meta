@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 226462c7b4d86d1479df1eacaf073d57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Scripts/Components/ElectricDoor.cs
+  uploadId: 637294

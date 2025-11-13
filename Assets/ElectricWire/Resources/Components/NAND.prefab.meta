@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4990d555d329b864a9d9d9ffb49e7f21
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/NAND.prefab
+  uploadId: 637294

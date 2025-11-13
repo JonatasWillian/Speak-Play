@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 794c41683cbeffa43b7d986ced92d92d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Scripts/Components/ElectricSwitch.cs
+  uploadId: 637294

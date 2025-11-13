@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8d2f2b8198e3ef439622bdd2cf30116
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Materials/TeslaCoilBase.mat
+  uploadId: 637294

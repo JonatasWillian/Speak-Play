@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 009f4bb5cfc4cc4449e5f4b5566a2e2a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Materials/Wall.mat
+  uploadId: 637294

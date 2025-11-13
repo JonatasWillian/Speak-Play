@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81891304f6fd3384e9c82c39cd3f9afa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/OxygenTank.prefab
+  uploadId: 637294

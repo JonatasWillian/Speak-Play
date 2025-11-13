@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 817fb3f84cc730448b72da017201009a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Scenes/DemoSceneSettings.lighting
+  uploadId: 637294

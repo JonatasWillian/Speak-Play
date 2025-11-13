@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55eea435b5c0c6d4bb3ec3cb28dee7b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/Switch3Way.prefab
+  uploadId: 637294

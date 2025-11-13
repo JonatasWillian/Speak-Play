@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3b34421bd3450fe4ebf41e13569749d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Scripts/Components/ElectricGateXOR.cs
+  uploadId: 637294

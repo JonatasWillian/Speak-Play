@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f5546ec73747e148a248e21822f915e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/PressurePlate.prefab
+  uploadId: 637294

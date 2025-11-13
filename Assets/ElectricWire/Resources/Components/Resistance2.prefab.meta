@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dcd6efeabd4d2b243bf3644300f68305
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/Resistance2.prefab
+  uploadId: 637294

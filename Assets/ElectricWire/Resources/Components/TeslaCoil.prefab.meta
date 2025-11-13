@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0feaf04643bbabf45a3ac90ce04fdba5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/TeslaCoil.prefab
+  uploadId: 637294

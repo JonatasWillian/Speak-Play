@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 918a930bde4775b49b1533a51fed3568
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/TreeUnity.prefab
+  uploadId: 637294

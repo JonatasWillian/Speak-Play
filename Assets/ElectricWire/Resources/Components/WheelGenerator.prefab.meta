@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0ebe5ba23fe64749b063649cc76ddd8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/WheelGenerator.prefab
+  uploadId: 637294

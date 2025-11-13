@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93a5f7db918a1024aa7899d9f01f8a2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Materials/Splitter.mat
+  uploadId: 637294

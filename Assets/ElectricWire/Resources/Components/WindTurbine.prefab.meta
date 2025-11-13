@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14df1abe1c88c0d4484e5be02147501d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/WindTurbine.prefab
+  uploadId: 637294

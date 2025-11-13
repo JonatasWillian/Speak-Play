@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 579873595cdc0b3469c8eaadb4334da7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Materials/Turret.mat
+  uploadId: 637294

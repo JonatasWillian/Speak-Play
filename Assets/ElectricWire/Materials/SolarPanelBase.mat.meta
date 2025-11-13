@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2dfbb7ea78ab0d64cbb8ec23d5dd525c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Materials/SolarPanelBase.mat
+  uploadId: 637294

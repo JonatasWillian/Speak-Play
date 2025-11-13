@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbfdbaec23ac0f2468d4ab08a46d16a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Resources/Components/AND.prefab
+  uploadId: 637294

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: de2c8b3c630df1e4e97f8fda55a33ed7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Scripts/Components/ElectricMoreInOne.cs
+  uploadId: 637294

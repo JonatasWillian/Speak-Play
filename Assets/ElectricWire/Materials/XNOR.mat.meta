@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 910bccf37a6439f4eb8a60c96f1cf1bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Materials/XNOR.mat
+  uploadId: 637294

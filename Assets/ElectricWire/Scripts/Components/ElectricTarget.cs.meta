@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 15ee0be68b4196747b37fe2c5bc3fd01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163229
+  packageName: Electric wire
+  packageVersion: 1.4
+  assetPath: Assets/ElectricWire/Scripts/Components/ElectricTarget.cs
+  uploadId: 637294
