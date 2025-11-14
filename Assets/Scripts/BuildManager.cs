@@ -1,49 +1,103 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public class BuildManager : MonoBehaviour
 {
-    [Header("Prefabs de Construções")]
+    [Header("Prefabs")]
     public GameObject prefabUsinaSolar;
     public GameObject prefabHortaUrbana;
-    //public GameObject prefabCentroReciclagem;
+    public GameObject prefabCentroReciclagem;
+
+    [Header("Ghost Previews")]
+    public GameObject ghostUsinaSolar;
+    public GameObject ghostHortaUrbana;
+    public GameObject ghostCentroReciclagem;
 
     [Header("UI")]
     public GameObject painelConstrucao;
 
-    private Vector3 localConstrucao;
+    private BuildArea areaAtual;
+    private GameObject previewAtual;
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && previewAtual == null)
         {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             if (Physics.Raycast(ray, out RaycastHit hit))
             {
-                if (hit.collider.CompareTag("BuildArea"))
+                if (hit.collider.TryGetComponent(out BuildArea area))
                 {
-                    localConstrucao = hit.collider.transform.position;
-                    painelConstrucao.SetActive(true);
+                    if (area.ocupada == false)
+                    {
+                        areaAtual = area;
+                        painelConstrucao.SetActive(true);
+                    }
                 }
             }
         }
     }
 
-    public void ConstruirUsinaSolar()
+    #region SISTEMA DE CONSTUCAO
+    public void EscolherUsinaSolar()
     {
-        Instantiate(prefabUsinaSolar, localConstrucao, Quaternion.identity);
-        painelConstrucao.SetActive(false);
+        CriarPreview(ghostUsinaSolar);
     }
 
-    public void ConstruirHortaUrbana()
+    public void EscolherHortaUrbana()
     {
-        Instantiate(prefabHortaUrbana, localConstrucao, Quaternion.identity);
-        painelConstrucao.SetActive(false);
+        CriarPreview(ghostHortaUrbana);
     }
 
-    //public void ConstruirCentroReciclagem()
-    //{
-    //    Instantiate(prefabCentroReciclagem, localConstrucao, Quaternion.identity);
-    //    painelConstrucao.SetActive(false);
-    //}
+    public void EscolherCentroReciclagem()
+    {
+        CriarPreview(ghostCentroReciclagem);
+    }
+
+    void CriarPreview(GameObject ghost)
+    {
+        painelConstrucao.SetActive(false);
+        previewAtual = Instantiate(ghost, areaAtual.buildPoint.position, areaAtual.buildPoint.rotation);
+    }
+
+    void Construir(GameObject prefab, int din, int ene, int ag, int sust)
+    {
+        if (!ResourceManager.instance.TemRecursos(din, ene, ag, sust))
+        {
+            Debug.Log("Recursos insuficientes!");
+            return;
+        }
+
+        Destroy(previewAtual);
+
+        Instantiate(prefab, areaAtual.buildPoint.position, areaAtual.buildPoint.rotation);
+
+        ResourceManager.instance.GastaRecursos(din, ene, ag, sust);
+
+        areaAtual.OcupaArea();
+        previewAtual = null;
+    }
+    #endregion
+
+    #region BOTOES DE CONFIRMAÇÃO
+    public void ConfirmarUsinaSolar()
+    {
+        Construir(prefabUsinaSolar, 100, 30, 10, -5);
+    }
+
+    public void ConfirmarHortaUrbana()
+    {
+        Construir(prefabHortaUrbana, 50, 5, 10, +10);
+    }
+
+    public void ConfirmarCentroReciclagem()
+    {
+        Construir(prefabCentroReciclagem, 70, 10, 5, +20);
+    }
+
+    public void CancelarConstrucao()
+    {
+        Destroy(previewAtual);
+        previewAtual = null;
+    }
+    #endregion
 }

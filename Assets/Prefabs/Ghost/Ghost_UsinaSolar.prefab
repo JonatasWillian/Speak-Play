@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 4645474983506239632}
   - component: {fileID: 399305941663712311}
   - component: {fileID: 7619735417705697210}
-  - component: {fileID: 1720777781483466929}
   m_Layer: 0
   m_Name: usina solar (1)
   m_TagString: Untagged
@@ -86,27 +85,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1720777781483466929
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3164438928474058056}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &3747301208795524174
 GameObject:
   m_ObjectHideFlags: 0
@@ -118,7 +96,6 @@ GameObject:
   - component: {fileID: 4893774570661336524}
   - component: {fileID: 1410386863756093697}
   - component: {fileID: 6343263163232016196}
-  - component: {fileID: 3444234152461210479}
   m_Layer: 0
   m_Name: usina solar
   m_TagString: Untagged
@@ -193,27 +170,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3444234152461210479
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3747301208795524174}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &7356641069750505361
 GameObject:
   m_ObjectHideFlags: 0
@@ -224,7 +180,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4242989780342660676}
   m_Layer: 0
-  m_Name: Usina solar
+  m_Name: Ghost_UsinaSolar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -260,7 +216,6 @@ GameObject:
   - component: {fileID: 5221577362139943989}
   - component: {fileID: 8942177757209999751}
   - component: {fileID: 2218480475703590125}
-  - component: {fileID: 3182624257902726501}
   m_Layer: 0
   m_Name: usina solar (3)
   m_TagString: Untagged
@@ -335,27 +290,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3182624257902726501
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7958409534290592613}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &8806862606766064405
 GameObject:
   m_ObjectHideFlags: 0
@@ -367,7 +301,6 @@ GameObject:
   - component: {fileID: 140548157028961271}
   - component: {fileID: 7285546485553986736}
   - component: {fileID: 107023194385434988}
-  - component: {fileID: 151124704814359569}
   m_Layer: 0
   m_Name: usina solar (2)
   m_TagString: Untagged
@@ -442,24 +375,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &151124704814359569
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8806862606766064405}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}

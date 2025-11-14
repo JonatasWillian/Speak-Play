@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3494937594154543699}
   m_Layer: 0
-  m_Name: Horta
+  m_Name: Ghost_Horta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -111,7 +111,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (26)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -185,7 +186,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (19)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -259,7 +261,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (13)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -333,7 +336,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (21)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -407,7 +411,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (17)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -481,7 +486,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (11)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -555,7 +561,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (12)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -629,7 +636,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (16)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -703,7 +711,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (14)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -777,7 +786,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (22)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -851,7 +861,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (24)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -925,7 +936,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (18)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -999,7 +1011,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (15)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1073,7 +1086,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (23)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1147,7 +1161,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (25)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1221,7 +1236,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cylinder (20)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8324884026670741907, guid: 2117a040f8f0de54290f6783038f26a5, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
